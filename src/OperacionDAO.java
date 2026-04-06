@@ -21,4 +21,4 @@ public class OperacionDAO {
             System.out.println("error al guardar: " + e.getMessage());
         }
     }
-}   
+}
