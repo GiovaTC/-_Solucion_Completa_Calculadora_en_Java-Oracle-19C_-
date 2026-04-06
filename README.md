@@ -1,7 +1,9 @@
 # -_Solucion_Completa_Calculadora_en_Java-Oracle-19C_- :.
 ✅ Solución Completa: Calculadora en Java + Oracle 19c:
 
-<img width="1254" height="1254" alt="image" src="https://github.com/user-attachments/assets/56cf7682-0c21-4b4a-bd90-d1d9de62d81a" />  
+<img width="1254" height="1254" alt="image" src="https://github.com/user-attachments/assets/56cf7682-0c21-4b4a-bd90-d1d9de62d81a" />    
+
+<img width="2556" height="1079" alt="image" src="https://github.com/user-attachments/assets/e019ca57-d646-4362-a1f9-21512bedfac2" />    
 
 ```
 
